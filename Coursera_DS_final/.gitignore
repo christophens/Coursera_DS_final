@@ -1,8 +1,0 @@
-#Gitignore
-
-
-#Disable Autosaves
-.ipynb_checkpoints/
-
-#Disable Versions with Foursquare API Login
-Current.ipnyb

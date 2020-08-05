@@ -1,0 +1,5 @@
+#Gitignore
+
+#Disable Autosaves
+.ipynb_checkpoints/
+
