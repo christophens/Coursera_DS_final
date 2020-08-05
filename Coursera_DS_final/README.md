@@ -1,0 +1,1 @@
+This repository contains all code related final assignments for the Coursera Applied Data Science course capstone project.
