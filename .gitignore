@@ -3,3 +3,6 @@
 #Disable Autosaves
 .ipynb_checkpoints/
 
+#Disable current work in progress version
+Current.ipynb
+
