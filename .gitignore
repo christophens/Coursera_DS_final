@@ -1,4 +1,7 @@
+#Disable Autosaves
 .ipynb_checkpoints/
+
+#Disable offline working version
 Current.ipynb
 
 #Disable Description File
