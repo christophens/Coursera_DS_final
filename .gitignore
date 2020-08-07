@@ -6,3 +6,6 @@
 #Disable current work in progress version
 .Current.ipynb
 
+#Disable Description File
+project_description.md
+
