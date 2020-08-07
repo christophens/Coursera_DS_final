@@ -1,10 +1,5 @@
-#Gitignore
-
-#Disable Autosaves
 .ipynb_checkpoints/
-
-#Disable current work in progress version
-.Current.ipynb
+Current.ipynb
 
 #Disable Description File
 project_description.md
