@@ -2,7 +2,7 @@
 .ipynb_checkpoints/
 
 #Disable offline working version
-Current.ipynb
+.Current.ipynb
 
 #Disable Description File
 project_description.md
