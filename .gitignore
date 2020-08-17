@@ -140,3 +140,4 @@ cython_debug/
 
 # Custom
 Current.ipynb
+Current_env.db
