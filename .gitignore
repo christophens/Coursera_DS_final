@@ -141,3 +141,11 @@ cython_debug/
 # Custom
 Current.ipynb
 Current_env.db
+Demographic_Statistics_By_Zip_Code.csv
+ny_acs
+ny_acs_b
+ny_new_york_zip_codes_geo.json
+current_data.db
+Dump.ipynb
+*.docx
+
