@@ -148,4 +148,6 @@ ny_new_york_zip_codes_geo.json
 current_data.db
 Dump.ipynb
 *.docx
+.DS_Store
+
 
