@@ -1,6 +1,6 @@
 This repository contains all code related final assignments for the Coursera Applied Data Science course capstone project.
 
-The project is split into two notebooks.
+The project is split into two notebooks, contained in the notebookds folder.
 
 - Introduction_data_collecting.ipynb contains the introduction and all code related to the data collecting task. Running this notebook requires foursquare api credentials as well as a key for the api of the American Community Census.
 	
